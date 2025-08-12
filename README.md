@@ -8,7 +8,7 @@ Not many people know how to cook. Many of us will look to internet or book to ge
 
 A simple webpage dedicated for my online food recipes to aid people cooking food
 
-## Struktur folder
+## Folder structure
 
 ```
 odin-recipes/
