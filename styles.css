@@ -1,0 +1,31 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: snow;
+    box-sizing: border-box;
+}
+
+.card {
+    width: 600px;
+    margin: 8px auto;
+    padding: 8px auto;
+}
+
+.title {
+    border-bottom: 2px solid burlywood;
+    margin-bottom: 30px;
+    margin-left: 40px;
+}
+
+ul {
+    list-style: none;
+}
+
+
+.button-click {
+    background-color: orange;
+    color: black;
+    text-align: center;
+    margin-bottom: 24px;
+    padding: 22px;
+    display: block;
+}

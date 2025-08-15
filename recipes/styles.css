@@ -1,0 +1,33 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: snow;
+    box-sizing: border-box;
+}
+
+.card {
+    width: 600px;
+    margin: 8px auto;
+    padding: 8px auto;
+}
+
+.title {
+    background-color: orange;
+    padding: 10px;
+    display: block;
+}
+
+img {
+    margin: auto 25px;
+}
+
+.content {
+    margin-bottom: 32px;
+
+}
+
+.header {
+    color: white;
+    background-color: indianred;
+    padding: 6px 12px;
+    margin-bottom: auto;
+}
